@@ -5,7 +5,7 @@ addpath(genpath('C:\code\leaddbs'))
 spm('defaults','eeg')
 addpath C:\Code\wjn_toolbox-master
 
-
+%hui
 % T = readtable('ECoG Coordinates Bipolar.csv');
 % T = readtable('C:\Users\ICN_guest\Charité - Universitätsmedizin Berlin\Interventional Cognitive Neuromodulation - PROJECT ECoG Atlas Connectomics (1)\MC\scripts\ECoG_Atlas_Master_Table.mat');
 load('E:\alpha_mtx\temp\ECoG_Atlas_Master_Table.mat');
